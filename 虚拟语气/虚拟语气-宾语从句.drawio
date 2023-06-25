@@ -1,0 +1,67 @@
+<mxfile host="Electron" modified="2023-06-25T09:11:27.783Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.0 Chrome/112.0.5615.204 Electron/24.5.1 Safari/537.36" etag="7tlDbsgPCJpqlRBdzMcE" version="21.5.0" type="device">
+  <diagram name="第 1 页" id="IBbFvY7GcDabCP4D4KGe">
+    <mxGraphModel dx="757" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BCa0aiZTG1ks1RrX1ghV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" edge="1" parent="1" source="BCa0aiZTG1ks1RrX1ghV-1" target="BCa0aiZTG1ks1RrX1ghV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCa0aiZTG1ks1RrX1ghV-8" value="had done" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;labelBackgroundColor=none;" edge="1" parent="1" source="BCa0aiZTG1ks1RrX1ghV-1" target="BCa0aiZTG1ks1RrX1ghV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCa0aiZTG1ks1RrX1ghV-1" value="过去的虚拟" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCa0aiZTG1ks1RrX1ghV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" edge="1" parent="1" source="BCa0aiZTG1ks1RrX1ghV-2" target="BCa0aiZTG1ks1RrX1ghV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCa0aiZTG1ks1RrX1ghV-10" value="done" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;labelBackgroundColor=none;" edge="1" parent="1" source="BCa0aiZTG1ks1RrX1ghV-2" target="BCa0aiZTG1ks1RrX1ghV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCa0aiZTG1ks1RrX1ghV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" edge="1" parent="1" source="BCa0aiZTG1ks1RrX1ghV-2" target="BCa0aiZTG1ks1RrX1ghV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCa0aiZTG1ks1RrX1ghV-15" value="（should） do&lt;br&gt;should常被省略" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;labelBackgroundColor=none;" edge="1" parent="1" source="BCa0aiZTG1ks1RrX1ghV-2" target="BCa0aiZTG1ks1RrX1ghV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCa0aiZTG1ks1RrX1ghV-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" edge="1" parent="1" source="BCa0aiZTG1ks1RrX1ghV-2" target="BCa0aiZTG1ks1RrX1ghV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCa0aiZTG1ks1RrX1ghV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" edge="1" parent="1" source="BCa0aiZTG1ks1RrX1ghV-2" target="BCa0aiZTG1ks1RrX1ghV-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="180" />
+              <mxPoint x="580" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCa0aiZTG1ks1RrX1ghV-2" value="&amp;nbsp;现在的虚拟" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCa0aiZTG1ks1RrX1ghV-12" value="would/should/could/might do" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;labelBackgroundColor=none;" edge="1" parent="1" source="BCa0aiZTG1ks1RrX1ghV-4" target="BCa0aiZTG1ks1RrX1ghV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BCa0aiZTG1ks1RrX1ghV-4" value="将来的虚拟&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCa0aiZTG1ks1RrX1ghV-7" value="过去完成时" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCa0aiZTG1ks1RrX1ghV-9" value="过去时" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCa0aiZTG1ks1RrX1ghV-11" value="过去将来时" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BCa0aiZTG1ks1RrX1ghV-14" value="建议、命令要求、忠告等动词后" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="60" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCa0aiZTG1ks1RrX1ghV-20" value="suggest翻译为表明、&lt;br&gt;insist翻译为认为时&lt;br&gt;不用虚拟语气" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" vertex="1" parent="1">
+          <mxGeometry x="520" y="50" width="140" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

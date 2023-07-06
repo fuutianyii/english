@@ -1,0 +1,57 @@
+<mxfile host="Electron" modified="2023-07-06T05:58:13.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.0 Chrome/112.0.5615.204 Electron/24.5.1 Safari/537.36" etag="UshaPPnyRIgkVmPQoiSY" version="21.5.0" type="device">
+  <diagram name="第 1 页" id="yAI3cJCMaqEag0dD0d9W">
+    <mxGraphModel dx="1418" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MiVb0B6YPA4VPnYgCz14-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" source="MiVb0B6YPA4VPnYgCz14-1" target="MiVb0B6YPA4VPnYgCz14-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MiVb0B6YPA4VPnYgCz14-5" value="过去式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#5AA9E6;labelBackgroundColor=none;" parent="MiVb0B6YPA4VPnYgCz14-4" vertex="1" connectable="0">
+          <mxGeometry x="0.075" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiVb0B6YPA4VPnYgCz14-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" source="MiVb0B6YPA4VPnYgCz14-1" target="MiVb0B6YPA4VPnYgCz14-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="160" />
+              <mxPoint x="560" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiVb0B6YPA4VPnYgCz14-8" value="过去完成式" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#5AA9E6;labelBackgroundColor=none;" parent="MiVb0B6YPA4VPnYgCz14-7" vertex="1" connectable="0">
+          <mxGeometry x="0.1342" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiVb0B6YPA4VPnYgCz14-1" value="would rather/had rather" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" vertex="1">
+          <mxGeometry x="320" y="40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MiVb0B6YPA4VPnYgCz14-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" source="MiVb0B6YPA4VPnYgCz14-3" target="MiVb0B6YPA4VPnYgCz14-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MiVb0B6YPA4VPnYgCz14-3" value="表示现在或将来相反&lt;br&gt;done" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" vertex="1">
+          <mxGeometry x="160" y="220" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MiVb0B6YPA4VPnYgCz14-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" source="MiVb0B6YPA4VPnYgCz14-6" target="MiVb0B6YPA4VPnYgCz14-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="330" />
+              <mxPoint x="560" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MiVb0B6YPA4VPnYgCz14-6" value="过去事实相反&lt;br&gt;had done" style="whiteSpace=wrap;html=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="490" y="220" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MiVb0B6YPA4VPnYgCz14-10" value="若宾语从句的主语为某人自己时，用原形do" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" vertex="1">
+          <mxGeometry x="160" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MiVb0B6YPA4VPnYgCz14-12" value="若宾语从句的主语为某人自己时，用have done" style="whiteSpace=wrap;html=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="490" y="360" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

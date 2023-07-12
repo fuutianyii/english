@@ -1,0 +1,95 @@
+<mxfile host="Electron" modified="2023-07-12T08:35:19.997Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.5.0 Chrome/112.0.5615.204 Electron/24.5.1 Safari/537.36" etag="WGx5vzMzwwXky-t0CiWE" version="21.5.0" type="device">
+  <diagram name="第 1 页" id="7oAz0jFPq2WbEX8Q_XOB">
+    <mxGraphModel dx="478" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="o8P2es75cb_sUgDdobq4-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" source="o8P2es75cb_sUgDdobq4-2" target="o8P2es75cb_sUgDdobq4-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" source="o8P2es75cb_sUgDdobq4-2" target="o8P2es75cb_sUgDdobq4-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" source="o8P2es75cb_sUgDdobq4-2" target="o8P2es75cb_sUgDdobq4-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="300" />
+              <mxPoint x="630" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-2" value="Mr green and many other guests" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" vertex="1">
+          <mxGeometry x="110" y="210" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" source="o8P2es75cb_sUgDdobq4-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="527" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" source="o8P2es75cb_sUgDdobq4-3" target="o8P2es75cb_sUgDdobq4-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-3" value="were" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" vertex="1">
+          <mxGeometry x="387" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" target="o8P2es75cb_sUgDdobq4-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="622" y="210" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" source="o8P2es75cb_sUgDdobq4-5" target="o8P2es75cb_sUgDdobq4-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="624" y="290" />
+              <mxPoint x="200" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-5" value="present at the party yesterday" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" vertex="1">
+          <mxGeometry x="529" y="210" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-7" value="主语" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-9" value="系动词/谓语" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="377" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-11" value="表" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="582" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" source="o8P2es75cb_sUgDdobq4-13" target="o8P2es75cb_sUgDdobq4-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-13" value="正常语序" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-21" value="Mr green and many other guests" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" vertex="1">
+          <mxGeometry x="529" y="327" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" source="o8P2es75cb_sUgDdobq4-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="527" y="357" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-23" value="were" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" vertex="1">
+          <mxGeometry x="387" y="327" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" source="o8P2es75cb_sUgDdobq4-24" target="o8P2es75cb_sUgDdobq4-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-24" value="Present at the party yesterday" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" vertex="1">
+          <mxGeometry x="110" y="327" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6392;fontColor=#5AA9E6;fillColor=#FFE45E;" parent="1" source="o8P2es75cb_sUgDdobq4-26" target="o8P2es75cb_sUgDdobq4-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-26" value="倒装" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="317" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="o8P2es75cb_sUgDdobq4-32" value="完全倒装处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5AA9E6;" parent="1" vertex="1">
+          <mxGeometry x="369" y="280" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
